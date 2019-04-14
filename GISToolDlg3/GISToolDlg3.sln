@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GISToolDlg3", "GISToolDlg3\GISToolDlg3.vcxproj", "{5C56C086-1D8A-48AA-9C38-A0EA72F047EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C56C086-1D8A-48AA-9C38-A0EA72F047EA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5C56C086-1D8A-48AA-9C38-A0EA72F047EA}.Debug|Win32.Build.0 = Debug|Win32
+		{5C56C086-1D8A-48AA-9C38-A0EA72F047EA}.Release|Win32.ActiveCfg = Release|Win32
+		{5C56C086-1D8A-48AA-9C38-A0EA72F047EA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
