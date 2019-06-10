@@ -1,5 +1,5 @@
 # gis-project
-a gis project.
+a gis project
 
 ## Implementation
 MFC Framework + sqlserver
